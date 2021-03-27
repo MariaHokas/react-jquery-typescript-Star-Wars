@@ -1,6 +1,6 @@
 # React Query Typescript- Star Wars App
 
-This project is React Query - TypeScript project. The app fetch data from the https://swapi.dev/. 
+This project is React Query - TypeScript project. The app fetch data from https://swapi.dev/. 
 
 ## Cloning and Running the Application in local
 
